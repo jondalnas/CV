@@ -1,10 +1,13 @@
 \documentclass[11pt,a4paper]{moderncv}
 
+\newcommand{\lang}{english}
+
 \usepackage{lmodern}
+\usepackage{ifthen}
 
 \moderncvtheme[green]{casual}
 
-\firstname{Jonas}
+\firstname{Jonas Birkedal Dudal}
 \familyname{Jensen}
 \title{Embedded Software Programmer}
 \address{Nybrovej 304 1. L-02}{2800 Kgs. Lyngby}
@@ -14,4 +17,7 @@
 
 \begin{document}
 	\maketitle
+	\ifthenelse{\equal{\lang}{english}}
+		{\input{english.tex}}
+		{\input{danish.tex}}
 \end{document}
