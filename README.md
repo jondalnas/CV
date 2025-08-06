@@ -1,5 +1,7 @@
 # CV
-My CV in LaTeX and markdown
+My CV in LaTeX and markdown.
+
+The Markdown part (What you are reading right now) consists mainly of the project I have created over the years, while the LaTeX document contains all the details about me.
 
 ## Hobby Projects
 Over the years, I have done a lot of hobby projects, here are some of the better.
