@@ -1,5 +1,5 @@
 # CV
-My resume in LaTeX and markdown
+My CV in LaTeX and markdown
 
 ## Ludum Dare
 Ludum Dare is a biannual game creation competition, of which I have participated 11 times.
