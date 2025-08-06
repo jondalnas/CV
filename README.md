@@ -1,7 +1,40 @@
 # CV
 My CV in LaTeX and markdown
 
-## Ludum Dare
+## Hobby Projects
+
+* [C++ Christmas Calendar Candle](https://github.com/jondalnas/CppChristmasCalendarCandle)
+* [Java Christmas Calendar Candle](https://github.com/jondalnas/ChristmasCalendarCandle)
+* [Word Cross Square](https://github.com/jondalnas/Word-Cross-Square)
+
+### Computer Graphics
+* [Simple Java Game Engine](https://github.com/jondalnas/SJGE)
+* [C3D Tracing - A C Based Path-Tracer](https://github.com/jondalnas/C3D-Tracing)
+* [OpenGL Game Engine](https://github.com/jondalnas/OpenGL)
+* [Java 3D Path Tracer](https://github.com/jondalnas/3D-Ray-Tracer)
+
+## School Projects
+* [Hardware Accelerated Neural Network](https://github.com/jondalnas/Hardware-Accelerated-Neural-Network)
+* [Audio Synthesis Chip](https://github.com/jondalnas/31015-Audio-Synthesis)
+* [RISC-V Simulator](https://github.com/jondalnas/02155-Final-Assignment)
+* [Asteroid Orbitor Game on STM32](https://github.com/jondalnas/30010-Programmerings-Projekt)
+* [Shooting Range Controller](https://github.com/jondalnas/ShootingRange)
+* [GameGirl - Breadboard Gaming Console](https://github.com/jondalnas/Gamegirl)
+* [Auto De-Tuner](https://github.com/jondalnas/Auto-De-Tuner)
+* [Java Path-Tracer](https://github.com/jondalnas/Exam)
+* [Java Platformer](https://github.com/jondalnas/Miniproject)
+* [Room Scanning Robot](https://github.com/jondalnas/ScanningRobot)
+* [Automatic Line Following Robot - With PID controller](https://github.com/jondalnas/SO7)
+* [Shadow Harry Ninja](https://github.com/jondalnas/Shadow-Harry-Ninja)
+
+
+## Games
+* [Cetris - C Tetris](https://github.com/jondalnas/Cetris)
+* [Fsnake - F\# Snake](https://github.com/jondalnas/FSnake)
+* [Reaper GBA Demake](https://github.com/jondalnas/Reaper-GBA-Demake)
+
+
+### Ludum Dare
 Ludum Dare is a biannual game creation competition, of which I have participated 11 times.
 
 * [Ludum Dare 38 - Live or DIE!](https://github.com/jondalnas/LudumDare38): The theme was "A Small World". The game is a survival colony builder, with a randomly generated world, where different jobs can be added to a queue, which your colonists will complete in order.
